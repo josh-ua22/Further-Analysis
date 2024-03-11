@@ -1,3 +1,14 @@
+-- You have to analyze the following datasets for the city of Chicago, as available on the Chicago City data portal.
+
+-- Socioeconomic indicators in Chicago
+
+-- Chicago public schools
+
+-- Chicago crime data
+
+-- Based on the information available in the different tables, you have to run specific queries using 
+-- Advanced SQL techniques that generate the required result sets.
+
 -- Exercise 1: Using Joins
 -- You have been asked to produce some reports about the communities and crimes in the Chicago area. You will need to use SQL join queries to access the data stored across multiple tables.
 
